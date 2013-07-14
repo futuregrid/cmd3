@@ -1,14 +1,15 @@
 cmd3 - A dynamic CMD shell with plugins
 =========================================
 
-cmd extension with plugins from a directory, scripts, and variable
-substitutions.
+cmd is an extension for the CMD class with the following features:
 
-This project is based on material developed by Gregor von Laszewski
-Significant potions of it are developed as pat of the CoG Shell and
-Cyberaide projects. However it was made more portable with better
-install.
+
+* command are loaded from plugin directories 
+* usage of docopts as part of the command creation
+* variable substitution
+* execution of python commands
+* scripts loadable from a script directory
 
 The documentation is located at 
 
-* http://futuregrid.github.com/cmd3/
+* http://cloudmesh.github.com/cmd3/
