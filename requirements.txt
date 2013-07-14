@@ -5,4 +5,7 @@ pip
 docopt
 sh
 pep8
+sphinx
+sphinx_bootstrap_theme
+sphinxcontrib-blockdiag
 autopep8
